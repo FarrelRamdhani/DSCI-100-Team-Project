@@ -1,4 +1,4 @@
-# DSCI-100-Team-Project
+# PUMPKIN-SEED-CLASSIFIER
 
 This is the group repository for our DSCI 100 group project
 
